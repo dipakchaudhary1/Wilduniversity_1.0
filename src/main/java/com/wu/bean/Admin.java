@@ -5,7 +5,7 @@ public class Admin {
 	private String username;
 	private String password;	
 	private String File;
-	
+	private String Srikanth;
 	public Admin() {
 		super();
 	}
