@@ -3,8 +3,8 @@ package com.wu.bean;
 public class Admin {
 	private int id;
 	private String username;
-	private String password;
-	
+	private String password;	
+	private String File;
 	
 	public Admin() {
 		super();
